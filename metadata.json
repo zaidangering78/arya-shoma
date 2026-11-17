@@ -1,0 +1,6 @@
+{
+  "name": "Ari Pratama — Portofolio Teknik Instalasi Tenaga Listrik",
+  "description": "Website portofolio pribadi bidang Teknik Instalasi Tenaga Listrik (TITL) menampilkan profil, keahlian instalasi 1 & 3 fasa, pengalaman PKL, proyek panel & kontrol motor, sertifikat kompetensi, galeri praktik, dan kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
